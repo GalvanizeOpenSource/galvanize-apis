@@ -1,6 +1,6 @@
 # galvanize-apis
 
-Galvanize portfolio and member companies with APIs
+Galvanize portfolio and member companies with APIs. Please submit pull requests for edits or additions! 
 
 ## Galvanize Ventures Portfolio Companies
 
