@@ -4,6 +4,10 @@ Galvanize portfolio and member companies with APIs. Please submit pull requests 
 
 ## Galvanize Ventures Portfolio Companies
 
+### [Stream.io API](http://getstream.io/docs/)
+Stream helps developers build scalable newsfeeds in a few hours instaed of a few weeks. Their API allows for feeds to be created for web and mobile apps, and abstracts the creation of creating feed activities, following, notifcations, and more. 
+  * Includes libraries for Python, Ruby, Javascript, PHP, and more
+
 ### [ChangeTip API](https://www.changetip.com/api)
 ChangeTip provides a simple way to send and recieve micropayments instantly using BitCoin. Their API allows anyone to integrate micropayments into their application. 
   * Includes Python & Node.js libraries
